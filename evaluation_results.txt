@@ -1,0 +1,63 @@
+
+    Q: What are the clinical symptoms of cardiac arrhythmia?
+    --------------------------------------------------
+    RETRIEVAL (0.94s | Top Score: 0.7765):
+    Question: A 58-year-old man with no prior cardiac history presents to the emergency department with symptoms of retrosternal chest pain starting at rest and lasting 30 minutes. The pain radiates to th... [truncated]
+    
+    AI ANSWER:
+    The clinical symptoms of cardiac arrhythmias typically include palpitations, shortness of breath, fatigue, chest discomfort, dizziness, nausea, sweating, confusion, and sometimes fainting. These symptoms can vary widely depending on the nature of the arrhythmia and its cause. For instance, atrial fibrillation may not cause palpitations but instead manifest as irregular heartbeat. Similarly, supraventricular tachycardia might present with palpitations without significant signs of heart failure, while paroxysmal ventricular tachycardia often results in sudden onset of palpitations and other symptoms. Additionally, some conditions can lead to symptoms that aren't immediately apparent, such as certain types of bradycardia that may be asymptomatic or have only minor effects on daily activities. Understanding the specific rhythm disorder helps determine the underlying condition causing these symptoms.
+    ==================================================
+    
+
+    Q: How should I treat a patient with Type 2 Diabetes?
+    --------------------------------------------------
+    RETRIEVAL (0.06s | Top Score: 0.7559):
+    Question: Considering this 57-year-old woman with well-controlled type 2 diabetes, obesity, and her laboratory findings, what condition related to metabolic issues is she most at risk for developing w... [truncated]
+    
+    AI ANSWER:
+    To effectively manage a patient with Type 2 Diabetes, you should consider several strategies:
+
+1. **Education**: Educate your patient on the risks associated with high blood sugar levels, especially during physical activity, and ensure they understand how to adjust their insulin dose accordingly. This education helps them make informed decisions about their diabetes management.
+
+2. **Regular Monitoring**: Monitor your patient's blood glucose levels regularly to ensure they stay within target ranges. If their blood sugar levels are consistently high, adjusting their diet and exercise plan may be necessary.
+
+3. **Weight Management**: Encourage your patient to maintain a healthy weight through a combination of diet and exercise. Maintaining a healthy body weight is essential for better control of blood sugar levels.
+
+4. **Medication Management**: Prescribe appropriate antidiabetic medications based on their specific needs. These might include oral hypoglycemics or injectable insulin depending on their type and current treatment plan.
+
+5. **Lifestyle Changes**: Incorporate lifestyle changes into their
+    ==================================================
+    
+
+    Q: What are the side effects of Lisinopril?
+    --------------------------------------------------
+    RETRIEVAL (0.05s | Top Score: 0.7468):
+    Question: A 60-year-old woman sought evaluation at an urgent care clinic after developing breathlessness 30 minutes earlier. She also developed swelling of the tongue and lips. She has heart failure a... [truncated]
+    
+    AI ANSWER:
+    Lisinopril is a calcium channel blocker that works by blocking the action of norepinephrine on vascular smooth muscle cells. One of its common side effects includes tachycardia, which can lead to palpitations. This occurs due to increased heart rate, potentially contributing to feelings of dizziness or lightheadedness. Other potential side effects include headache, nausea, and dizziness, although the frequency and severity may vary among individuals. These effects typically subside within several hours but can persist if left untreated.
+    ==================================================
+    
+
+    Q: A patient has sudden chest pain and shortness of breath. Diagnosis?
+    --------------------------------------------------
+    RETRIEVAL (0.05s | Top Score: 0.8254):
+    Question: A 57-year-old man presents to his physician with dyspnea on exertion and rapid heartbeat. He denies any pain during these episodes. He works as a machine operator at a solar panels manufactu... [truncated]
+    
+    AI ANSWER:
+    Based on the given context, the patient's presentation of sudden chest pain and shortness of breath could indicate angina pectoris. Angina pectoris occurs when the heart muscle doesn't get enough oxygen-rich blood due to reduced coronary flow, often caused by conditions like coronary artery disease or atherosclerosis. The sudden onset suggests a potentially acute issue that may require immediate attention.
+
+The symptoms of chest pain and shortness of breath align well with angina, making it the most likely diagnosis from the provided information. Therefore, the patient is likely experiencing angina pectoris, necessitating appropriate medical evaluation to address the underlying cause.
+    ==================================================
+    
+
+    Q: Explain the mechanism of action for Metformin.
+    --------------------------------------------------
+    RETRIEVAL (0.05s | Top Score: 0.6879):
+    Question: What drug is known to decrease the effect of oral anticoagulants like warfarin when administered concomitantly?
+Answer: Rifampin is well-known for decreasing the effectiveness of oral antico... [truncated]
+    
+    AI ANSWER:
+    Metformin works by inhibiting the enzyme glucose-6-phosphatase. This process occurs through its effect on glycogen synthetase, specifically affecting the phosphorylation state of glucose-6-phosphate. By preventing phosphorylation, metformin slows down the breakdown of glucose into pyruvate, thereby reducing blood sugar levels and promoting glycolysis, which is the primary metabolic pathway responsible for producing energy in the body. Consequently, metformin reduces overall blood glucose levels, which can help control diabetes by lowering blood sugar over time.
+    ==================================================
+    
