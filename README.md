@@ -42,7 +42,7 @@ I aligned the model using **Direct Preference Optimization (DPO)** on the `Intel
 
 ---
 
-### Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 
@@ -94,6 +94,6 @@ to use the chat interface.
 
 ---
 
-## ⚖️ Disclaimer
+##  Disclaimer
 
 This AI is for educational and research purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health pr
